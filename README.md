@@ -1,6 +1,6 @@
 # Data Analysis & Machine Learning
 
-A collection of data analysis and machine learning tasks covering text analysis, classification, and market basket analysis.
+A collection of academic data analysis and machine learning tasks covering text analysis, classification, and market basket analysis.
 
 ## Projects
 
@@ -8,7 +8,7 @@ A collection of data analysis and machine learning tasks covering text analysis,
 
 A text analysis task focused on exploring and processing textual data using Natural Language Processing techniques.
 
-[View Notebook →](https://github.com/MayarTurki1/Data-Analysis-ML/blob/main/Text%20Analysis/Task3_Project_Text_Analysis.ipynb)
+[View Project →](https://github.com/MayarTurki1/Data-Analysis-ML/tree/619079a8246da149b46378d51a56526a090c7f3b/Text%20Analysis)
 
 ---
 
@@ -16,7 +16,7 @@ A text analysis task focused on exploring and processing textual data using Natu
 
 A classification task implementing the Naive Bayes algorithm for predictive analysis.
 
-[View Notebook →](https://github.com/MayarTurki1/Data-Analysis-ML/blob/main/Naive%20bayes/DA2_Project_Task_1.ipynb)
+[View Project →](https://github.com/MayarTurki1/Data-Analysis-ML/tree/619079a8246da149b46378d51a56526a090c7f3b/Naive%20bayes)
 
 ---
 
@@ -24,7 +24,7 @@ A classification task implementing the Naive Bayes algorithm for predictive anal
 
 An analysis of item relationships and purchasing patterns using Market Basket Analysis and association rule mining.
 
-[View Notebook →](https://github.com/MayarTurki1/Data-Analysis-ML/blob/main/Market%20Basket%20Analysis/DA2_Project_Task_2_Market_Basket.ipynb)
+[View Project →](https://github.com/MayarTurki1/Data-Analysis-ML/tree/619079a8246da149b46378d51a56526a090c7f3b/Market%20Basket%20Analysis)
 
 ---
 
